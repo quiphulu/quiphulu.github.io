@@ -38,23 +38,9 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/picture1-3-720x540.png",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "DOWNLOAD OUR FREE APP",
-                "contentAlign": "left",
-                "text": "Track your TrackInch anywhere you go with our free mobile app. Utilize top-of-the-line GPS technology for safety and style.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;FOR iOS &nbsp;&nbsp;</a>",
-                "overlay": true,
-                "overlayOpacity": "0.4",
-                "overlayColor": "#000000"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/picture9-1-1500x962.png",
-                "active": false,
-                "showButtons": true,
+                "active": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "title": "PROTECT YOUR VALUABLE",
@@ -65,14 +51,28 @@
                 "overlayOpacity": "0.4"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/picture1-3-720x540.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "DOWNLOAD OUR FREE APP",
+                "contentAlign": "left",
+                "text": "Track your TrackInch anywhere you go with our free mobile app. Available for both Android and iOS. The TrackInch app is easy to use and intuitive.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD ANDROID</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;DOWNLOAD iOS &nbsp;&nbsp;</a>",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/picture7-1-720x540.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "SECURITY",
+                "title": "EXCEPTIONAL BATTERY",
                 "contentAlign": "center",
-                "text": "Track your TrackInch anywhere you go. Utilize top-of-the-line GPS technology for safety and style.",
+                "text": "With years of battery life, TrackInch provides worry-free tracking of your motorcycle, car and purse. Just attach and done.",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR IOS</a>",
                 "overlay": true,
                 "overlayOpacity": "0.4"
@@ -172,12 +172,12 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.1"
           },
-          "title": "CUSTOMIZE TO YOUR TRACKER",
-          "text": "Choose a color that matches your style.",
+          "title": "<br><br><br>CUSTOMIZE TO YOUR TRACKER",
+          "text": "Choose from one of 3 colors that matches your style.<br>Deep Orange, Quite Blue or Just Black",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CUSTOMIZE YOUR TRACKINCH</a>",
           "_tags": [
             "Theme"
@@ -187,10 +187,12 @@
           "_anchor": "header4-1",
           "_styles": {
             "H1": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "48px"
             },
             "P": {
-              "color": "#000000"
+              "color": "#475577",
+              "font-size": "23px"
             }
           }
         },
@@ -246,8 +248,8 @@
           },
           "title": "TRACKINCH VIDEO",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "Learn to use TrackInch in this quick 3-minute video.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "text": "Learn to use TrackInch in this quick 3-minute tutorial.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE MORE</a>",
           "_tags": [
             "Theme"
           ],

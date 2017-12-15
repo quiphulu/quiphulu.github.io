@@ -26,9 +26,11 @@
 }
 #header4-1 H1 {
   color: #000000;
+  font-size: 48px;
 }
 #header4-1 P {
-  color: #000000;
+  color: #475577;
+  font-size: 23px;
 }
 #msg-box5-3 .mbr-header__text {
   color: #ffffff;
