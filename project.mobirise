@@ -38,19 +38,6 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/picture9-1-1500x962.png",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "title": "PROTECT YOUR VALUABLE",
-                "contentAlign": "left",
-                "text": "Track your TrackInch anywhere you go. Utilize top-of-the-line GPS technology for safety and style.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR IOS</a>",
-                "overlay": true,
-                "overlayOpacity": "0.4"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/picture1-3-720x540.png",
                 "active": false,
                 "showButtons": true,
@@ -65,14 +52,27 @@
                 "overlayColor": "#000000"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/picture7-1-720x540.png",
+                "image": "@PROJECT_PATH@/assets/images/picture9-1-1500x962.png",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "EXCEPTIONAL BATTERY",
+                "title": "PROTECT YOUR VALUABLE",
+                "contentAlign": "left",
+                "text": "Track your TrackInch anywhere you go. Utilize top-of-the-line GPS sensor technology for safety and style.<br>With TrackInch, you can secure your belongings with ease.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR IOS</a>",
+                "overlay": true,
+                "overlayOpacity": "0.4"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/on-bike-2-1374x865.png",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "BE WORRY-FREE",
                 "contentAlign": "center",
-                "text": "With years of battery life, TrackInch provides worry-free tracking of your motorcycle, car and purse. Just attach and done.",
+                "text": "With months of battery life, TrackInch provides worry-free tracking of your things from big to small. TrackInch can be quickly recharged in 1 hour.<br>Make your life easy and less stressful with TrackInch.",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR IOS</a>",
                 "overlay": true,
                 "overlayOpacity": "0.4"
