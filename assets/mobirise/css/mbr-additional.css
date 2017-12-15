@@ -56,3 +56,60 @@
 #form1-8 .mbr-header__text {
   color: #ffffff;
 }
+#social-buttons1-d .mbr-header__text {
+  text-align: left;
+}
+#ext_menu-f .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-f.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-f .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-f .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-f .mbr-brand__name a {
+  font-size: 32px;
+}
+#ext_menu-f .mbr-navbar__items a {
+  font-size: 15px;
+}
+#ext_menu-i .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-i .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-i .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-i .mbr-brand__name a {
+  font-size: 32px;
+}
+#ext_menu-i .mbr-navbar__items a {
+  font-size: 15px;
+}
+#ext_menu-n .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-n.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-n .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-n .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-n .mbr-brand__name a {
+  font-size: 32px;
+}
+#ext_menu-n .mbr-navbar__items a {
+  font-size: 15px;
+}
