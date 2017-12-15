@@ -72,7 +72,7 @@
                 "showTitle": true,
                 "title": "BE WORRY-FREE",
                 "contentAlign": "center",
-                "text": "With months of battery life, TrackInch provides worry-free tracking of your things from big to small. TrackInch can be quickly recharged in 1 hour.<br>Make your life easy and less stressful with TrackInch.",
+                "text": "With a month of battery life, TrackInch provides worry-free tracking of your things from big to small. TrackInch can be quickly recharged in 1 hour.<br>Make your life easy and less stressful with TrackInch.",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR IOS</a>",
                 "overlay": true,
                 "overlayOpacity": "0.4"
@@ -176,7 +176,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.1"
           },
-          "title": "<br><br><br>CUSTOMIZE TO YOUR TRACKER",
+          "title": "<br><br><br>CUSTOMIZE YOUR TRACKER",
           "text": "Choose from one of 3 colors that matches your style.<br>Deep Orange, Quite Blue or Just Black",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CUSTOMIZE YOUR TRACKINCH</a>",
           "_tags": [
