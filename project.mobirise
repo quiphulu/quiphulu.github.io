@@ -6,10 +6,12 @@
       "name": "default",
       "title": "Mobirise",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#3c3c3c"
+      ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 11,
+    "uniqCompNum": 15,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": ""
@@ -37,38 +39,43 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/picture1-3-720x540.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "TRACK YOUR DEVICE",
+                "title": "DOWNLOAD OUR FREE APP",
                 "contentAlign": "left",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp;FOR iOS&nbsp;</a>",
+                "text": "Track your TrackInch anywhere you go with our free mobile app. Utilize top-of-the-line GPS technology for safety and style.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;FOR iOS &nbsp;&nbsp;</a>",
                 "overlay": true,
-                "overlayOpacity": "0.3"
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
               },
               {
-                "image": "images/slide2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picture9-1-1500x962.png",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "Slide 2",
+                "title": "PROTECT YOUR VALUABLE",
                 "contentAlign": "left",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "Track your TrackInch anywhere you go. Utilize top-of-the-line GPS technology for safety and style.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR IOS</a>",
+                "overlay": true,
+                "overlayOpacity": "0.4"
               },
               {
-                "image": "images/slide3.jpg",
-                "active": false,
-                "showButtons": true,
+                "image": "@PROJECT_PATH@/assets/images/picture7-1-720x540.png",
+                "active": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "Slide 3",
+                "title": "SECURITY",
                 "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "Track your TrackInch anywhere you go. Utilize top-of-the-line GPS technology for safety and style.",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR IOS</a>",
+                "overlay": true,
+                "overlayOpacity": "0.4"
               }
             ]
           },
@@ -80,11 +87,11 @@
           "_anchor": "slider-2",
           "_styles": {
             "H1": {
-              "color": "#efefef",
+              "color": "#ffffff",
               "text-align": "left"
             },
             "P": {
-              "color": "#efefef",
+              "color": "#ffffff",
               "text-align": "left"
             }
           }
@@ -169,9 +176,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "MOBIRISE WEBSITE BUILDER",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "title": "CUSTOMIZE TO YOUR TRACKER",
+          "text": "Choose a color that matches your style.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CUSTOMIZE YOUR TRACKINCH</a>",
           "_tags": [
             "Theme"
           ],
@@ -206,7 +213,7 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 3,
+            "paddingTop": "3",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -237,9 +244,9 @@
               "loop": false
             }
           },
-          "title": "VIDEO DEMO",
+          "title": "TRACKINCH VIDEO",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "Learn to use TrackInch in this quick 3 minutes video.",
+          "text": "Learn to use TrackInch in this quick 3-minute video.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -251,8 +258,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "\"AMAZINGLY USEFUL\"",
-          "meta": "By John Smith posted July 30, 2015",
+          "title": "\"AMAZINGLY USEFUL.\"",
+          "meta": "By John Smith posted July 30, 2017",
           "_tags": [
             "Theme"
           ],
@@ -288,13 +295,51 @@
             "overlayOpacity": 0.5
           },
           "title": "GET YOUR TRACKINCH",
-          "text": "Start tracking your car now to have a peace of mind.",
+          "text": "Start tracking your automobile now to have a peace of mind.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PURCHASE NOW</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
           "_anchor": "msg-box1-a"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "THE MOST CONVENIENT GPS TRACKER TODAY.",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-e"
         },
         {
           "_params": {
@@ -305,7 +350,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#3c3c3c",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -343,7 +388,37 @@
             "Theme"
           ],
           "_name": "form1",
-          "_anchor": "form1-8"
+          "_anchor": "form1-8",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "VISIT US ON FACEBOOK, GOOGLE+ AND TWITTER",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-d"
         },
         {
           "_params": {
